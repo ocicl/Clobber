@@ -5,5 +5,5 @@ A simpler alternative to object prevalence for Common Lisp.
 |---------+---------------------------------------------------|
 | source  | git:https://github.com/robert-strandh/Clobber.git |
 | commit  | 212721c                                           |
-| systems | Clobber                                           |
+| systems | clobber                                           |
 |---------+---------------------------------------------------|
