@@ -4,6 +4,6 @@ A simpler alternative to object prevalence for Common Lisp.
 
 |---------+---------------------------------------------------|
 | source  | git:https://github.com/robert-strandh/Clobber.git |
-| commit  | dc5b405                                           |
+| commit  | fed4a02                                           |
 | systems | clobber                                           |
 |---------+---------------------------------------------------|
